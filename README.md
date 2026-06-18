@@ -30,6 +30,14 @@ Goal:
   Become a Cloud & DevOps Engineer
 ```
 
+### 🌐 DevOps Inspiration
+
+I am passionate about Cloud Computing, DevOps, Automation, and modern software delivery practices.
+
+🔗 DevOps Consulting Reference:
+
+https://www.testingxperts.com/services/devops-consulting/
+
 ---
 
 # 🛠️ Tech Stack
