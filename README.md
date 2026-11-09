@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light.svg" />
-    <img alt="Raghu's Live Banner" src="ra.svg" width="100%" />
-  </picture>
+  <img alt="Raghu's Live Banner" src="ra.png" width="100%" />
 </div>
 
 <br/>
@@ -22,8 +18,6 @@
 ### ☁️ Cloud Technology Enthusiast | AWS | Docker | Linux | Python | DevOps
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Technology+Enthusiast;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Linux;Python+%7C+Flask+Developer;Building+Cloud+Projects+🚀" />
-
-
 
 </div>
 
@@ -140,11 +134,11 @@ Kubernetes              ███░░░░░░░░░░░░░ 20%
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/raghu-e/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/raghutamil2007">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
