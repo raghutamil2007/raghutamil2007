@@ -1,3 +1,34 @@
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TECH_STACK-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### ☁️ Cloud Computing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+</p>
+
+### 🐳 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bash&theme=dark" />
+</p>
+
+### 🐧 Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" />
+</p>
+
+### 💻 Programming & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,vscode&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning, Building & Deploying — One Step at a Time."</i>
+</p>
 <div align="center">
   <img alt="Raghu's Live Banner" src="ra.png" width="100%" />
 </div>
