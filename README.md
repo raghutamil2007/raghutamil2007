@@ -57,31 +57,6 @@ https://www.testingxperts.com/services/devops-consulting/
   <img alt="My Tech Stack" src="tec.png" width="100%" />
 </div>
 
-<br/>
-
-### ☁️ Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-### 🐳 DevOps & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,bash" />
-</p>
-
-### 🐧 Operating Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-</p>
-
-### 💻 Programming & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,vscode" />
-</p>
 
 
 # 🚀 Current Learning Roadmap
