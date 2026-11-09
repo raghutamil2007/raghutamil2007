@@ -51,55 +51,37 @@ https://www.testingxperts.com/services/devops-consulting/
 
 ---
 
-## ⚡ TECH STACK & TECHNOLOGIES
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-0D1117?style=for-the-badge&logo=icloud&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/LEARN%20%7C%20BUILD%20%7C%20DEPLOY-0D1117?style=for-the-badge&logo=github&logoColor=9B5CFF" />
+<div align="center">
+  <img alt="My Tech Stack" src="tec.png" width="100%" />
+</div>
+
+<br/>
+
+### ☁️ Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+### 🐳 DevOps & Tools
 
-### ☁️ CLOUD COMPUTING
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bash" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+### 🐧 Operating Systems
 
-**AWS · Cloud Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+</p>
 
-</td>
-<td width="50%" align="center">
+### 💻 Programming & Development
 
-### 🐳 DEVOPS & TOOLS
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,bash&theme=dark" />
-
-**Docker · Git · GitHub · Bash**
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🐧 OPERATING SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" />
-
-**Linux · Ubuntu**
-
-</td>
-<td width="50%" align="center">
-
-### 💻 PROGRAMMING & DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,vscode&theme=dark" />
-
-**Python · Flask · HTML · CSS · VS Code**
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,vscode" />
+</p>
 
 ---
 
