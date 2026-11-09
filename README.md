@@ -83,25 +83,6 @@ https://www.testingxperts.com/services/devops-consulting/
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,vscode" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-CLOUD%20ENGINEERING-111827?style=flat-square&logo=icloud&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/INTEREST-DEVOPS-111827?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-111827?style=flat-square&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <i>Building. Automating. Deploying. Improving.</i>
-</p>
-
-### 💻 Programming & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,vscode" />
-</p>
-
----
 
 # 🚀 Current Learning Roadmap
 
