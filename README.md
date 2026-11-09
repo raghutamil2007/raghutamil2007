@@ -1,4 +1,8 @@
+<div align="center">
+  <img alt="Raghu's Live Banner" src="ra.png" width="100%" />
+</div>
 
+<br/>
 
 <div align="center">
 <picture>
