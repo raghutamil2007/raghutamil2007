@@ -1,12 +1,12 @@
-![Intro](./assets/hero.svg?v=2)
+![Intro](./hero.svg?v=2)
 
-![About](./assets/about-life.svg?v=2)
+![About](./about-life.svg?v=2)
 
-![Stack](./assets/stack.svg?v=2)
+![Stack](./stack.svg?v=2)
 
-![ID](./assets/id-dashboard.svg?v=2)
+![ID](./id-dashboard.svg?v=2)
 
-![Connect](./assets/connect.svg?v=2)
+![Connect](./connect.svg?v=2)
 
 
 ### Links
